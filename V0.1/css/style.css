@@ -1,0 +1,20 @@
+/*.main-features {
+  margin-top: 10px;      
+}*/
+
+.hero-unit {
+  background-image:url('http://www.hdwallpapers.in/walls/aeroplane-HD.jpg');
+  background-color:#cccccc;   
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+.hero-unit h1 {
+  color:#ffffff
+}
+
+.hero-unit p {
+  color:#eeeeee
+}
+
