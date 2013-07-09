@@ -1,0 +1,24 @@
+.main-features {
+  margin-top: 10px;      
+}
+
+body {
+  background-image:url('http://www.hdwallpapers.in/walls/flight-wide.jpg');
+  background-color:#cccccc;   
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /*background-position:center;*/
+}
+
+.hero-unit {
+  background-color:rgba(0,0,0,0.2);
+}
+
+.hero-unit h1 {
+  color:#ffffff
+}
+
+.hero-unit p {
+  color:#eeeeee
+}
+
