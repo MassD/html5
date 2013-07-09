@@ -11,14 +11,14 @@ body {
 }
 
 .hero-unit {
-  background-color:rgba(0,0,0,0.1);
+  background-color:rgba(0,0,0,0.3);
 }
 
 .hero-unit h1 {
-  color:#333333
+  color:#ffffff
 }
 
 .hero-unit p {
-  color:#555555
+  color:#eeeeee
 }
 
