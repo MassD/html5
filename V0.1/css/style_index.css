@@ -5,7 +5,8 @@
 body {
   background-image:url('http://www.hdwallpapers.in/wallpapers/aeroplane-1920x1080.jpg');
   background-color:#cccccc;   
-  background-size: 100%;
+  /*background-color:#000000;*/
+  background-size: 100% auto;
   background-repeat: no-repeat;
   /*background-position:center;*/
 }
